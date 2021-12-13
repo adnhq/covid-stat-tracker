@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">COVID-19 Daily Report</string>
+    <string name="select_a_country">Select a country:</string>
+</resources>
